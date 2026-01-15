@@ -1,0 +1,4 @@
+C:\repo\consoleApplications\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\consoleApplications\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfoInputs.cache
+C:\repo\consoleApplications\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.AssemblyInfo.cs
+C:\repo\consoleApplications\AbstractFactoryDesignPattern\obj\Debug\net8.0\AbstractFactoryDesignPattern.csproj.CoreCompileInputs.cache

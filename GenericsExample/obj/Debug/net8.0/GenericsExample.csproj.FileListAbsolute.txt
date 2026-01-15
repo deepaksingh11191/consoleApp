@@ -1,0 +1,16 @@
+C:\repo\consoleApplications\GenericsExample\bin\Debug\net8.0\GenericsExample.exe
+C:\repo\consoleApplications\GenericsExample\bin\Debug\net8.0\GenericsExample.deps.json
+C:\repo\consoleApplications\GenericsExample\bin\Debug\net8.0\GenericsExample.runtimeconfig.json
+C:\repo\consoleApplications\GenericsExample\bin\Debug\net8.0\GenericsExample.dll
+C:\repo\consoleApplications\GenericsExample\bin\Debug\net8.0\GenericsExample.pdb
+C:\repo\consoleApplications\GenericsExample\obj\Debug\net8.0\GenericsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\repo\consoleApplications\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfoInputs.cache
+C:\repo\consoleApplications\GenericsExample\obj\Debug\net8.0\GenericsExample.AssemblyInfo.cs
+C:\repo\consoleApplications\GenericsExample\obj\Debug\net8.0\GenericsExample.csproj.CoreCompileInputs.cache
+C:\repo\consoleApplications\GenericsExample\obj\Debug\net8.0\GenericsExample.dll
+C:\repo\consoleApplications\GenericsExample\obj\Debug\net8.0\refint\GenericsExample.dll
+C:\repo\consoleApplications\GenericsExample\obj\Debug\net8.0\GenericsExample.pdb
+C:\repo\consoleApplications\GenericsExample\obj\Debug\net8.0\GenericsExample.genruntimeconfig.cache
+C:\repo\consoleApplications\GenericsExample\obj\Debug\net8.0\ref\GenericsExample.dll
+C:\repo\consoleApplications\GenericsExample\bin\Debug\net8.0\JsonData\Person.json
+C:\repo\consoleApplications\GenericsExample\bin\Debug\net8.0\JsonData\PersonProfile.json
