@@ -1,0 +1,72 @@
+# Ignore build outputs
+bin/
+obj/
+
+# Visual Studio temporary files, build results, and
+# user-specific files
+.vs/
+*.user
+*.suo
+*.userprefs
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+.nuget/packages/
+packages/
+project.lock.json
+project.fragment.lock.json
+
+# Publish folder
+publish/
+
+# Test results
+TestResults/
+*.trx
+
+# IIS Express
+/.vs/*
+applicationhost.config
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Dotnet watch
+.dotnetwatch/
+
+# Rider caches
+*.sln.DotSettings
+
+# Environment and local settings
+.env
+local.settings.json
+appsettings.Development.json
+
+# Coverage
+coverage*
+coverage.opencover.xml
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Backup files
+*.bak
+*~
+
+# Ignore compiled python files if present
+__pycache__/
+*.py[cod]
+
+# GitHub Actions artifacts
+.github/workflows/**/artifacts/
