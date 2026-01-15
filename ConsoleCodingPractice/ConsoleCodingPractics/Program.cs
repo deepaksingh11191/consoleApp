@@ -33,5 +33,5 @@ Console.WriteLine("Hello, World!");
 //RemoveDuplicateCharactersFromString removeDuplicateCharactersFromString = new RemoveDuplicateCharactersFromString(Console.ReadLine());
 //removeDuplicateCharactersFromString.RemoveDuplicateCharFromString_B();
 
-//FindAllPossibleSubstringOfAGivenString findAllPossibleSubstringOfAGivenString = new FindAllPossibleSubstringOfAGivenString(Console.ReadLine());
-//findAllPossibleSubstringOfAGivenString.FindAllPossibleSubstring();
+FindAllPossibleSubstringOfAGivenString findAllPossibleSubstringOfAGivenString = new FindAllPossibleSubstringOfAGivenString(Console.ReadLine());
+findAllPossibleSubstringOfAGivenString.FindAllPossibleSubstring();
